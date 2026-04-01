@@ -3,6 +3,7 @@
 [FR] Un script léger et facile à configurer pour afficher le logo de votre serveur sur le profil Discord de vos joueurs.  
 [EN] A lightweight and easy-to-configure script to display your server logo on your players' Discord profiles.
 
+![Aperçu de la Rich Presence](preview.png)
 ---
 
 ## 🇫🇷 Français (French)
